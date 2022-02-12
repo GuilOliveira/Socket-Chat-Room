@@ -49,7 +49,7 @@ class Connection():
                                     "message": f"[{user}]: {message}"}))
         elif self.data["info"] == 1:
             client.send(pack({"user": user,
-                                    "message": f"[NEW USER]{user} entrou no bate-papo!"}))
+                                    "message": f"[NEW USER]{user} appeared in the chat!"}))
     def handleClient(self):
         print(f"[NEW CONNECTION] {self.addr} connected.")
 
