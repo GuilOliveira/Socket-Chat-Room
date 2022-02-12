@@ -15,5 +15,7 @@
 <div align="center">
 <img src="https://cdn.discordapp.com/attachments/755645900558434365/942178502340378654/unknown.png" align="center"/>
 </div>
+<hr>
 <h3>Tips:</h3>
 <p> • If you don't have a server, network configuration or a global ip for hosting this service, it's easier just use a LAN or emulate one with a software like <a href="https://www.radmin-vpn.com" target="_blank">Radmin</a>.</p>
+<p> • Whether you use Windows and have python installed, you can just double click on .bats to run services :).</p>
